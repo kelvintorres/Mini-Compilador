@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+int main() {
+
+
+
+string var1 = "hola";
+
+int var5 = 23;
+
+if ( 23 == var5 )
+
+{ 
+
+ cout << "KELVIN TORRES ANALIZADOR" << endl;
+
+} 
+
+
+
+return 0;
+}
